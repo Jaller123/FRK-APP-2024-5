@@ -1,12 +1,9 @@
-import Coffee from "./components/Coffee";
-import Header from "./components/Header";
-import Hero from "./components/Hero";
+import { Header, Coffee } from "javajunction-frontend";
 
 function App() {
   return (
     <>
       <Header />
-      <Hero />
       <Coffee />
     </>
   );
