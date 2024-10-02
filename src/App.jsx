@@ -1,4 +1,4 @@
-import { Header, Coffee } from "javajunction-frontend";
+import { Header, Coffee } from "javajunction-frontend"
 
 function App() {
   return (
