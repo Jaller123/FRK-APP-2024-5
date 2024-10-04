@@ -1,4 +1,4 @@
-import { Header, Coffee, NavLinks, Tea, AboutUs, Footer } from "javajunction-frontend"
+import { Header, Coffee, Tea, AboutUs, Footer, NavLinks, AddFooter } from "javajunction-frontend"
 
 function App() {
   return (
@@ -9,6 +9,7 @@ function App() {
       <Tea />
       <AboutUs />
       <Footer />
+      <AddFooter />
     </>
   );
 }
